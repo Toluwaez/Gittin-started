@@ -1,2 +1,0 @@
-# Gittin-started
-practice
