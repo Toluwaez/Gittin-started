@@ -1,4 +1,0 @@
-This is line one after 1st commit. added another
-this is the commit 2
-this is the commit 10
-last one before branch
